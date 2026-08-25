@@ -1,0 +1,12 @@
+🚀 How to Stand Out
+Feature engineering: Add FamilySize, IsAlone, Title from names, Age/Fare bins.
+
+Model comparison: Go beyond Logistic Regression — include Random Forest, Gradient Boosting, XGBoost.
+
+Evaluation metrics: Report precision, recall, F1, ROC‑AUC, not just accuracy.
+
+Visual storytelling: Show survival by gender, class, age groups with Seaborn plots.
+
+Professional repo: Use clean folder structure, README.md, requirements.txt.
+
+Optional deployment: Build a Streamlit app where users can input passenger details and see predictions.
