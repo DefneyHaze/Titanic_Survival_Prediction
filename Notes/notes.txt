@@ -13,3 +13,13 @@ Optional deployment: Build a Streamlit app where users can input passenger detai
 
 
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+EDA Notes:
+
+### Missing Values Summary
+
+| Column   | Missing Count | Missing % | Action Taken                  |
+|----------|---------------|-----------|-------------------------------|
+| Age      | 177           | 19.9%     | Fill with median              |
+| Cabin    | 687           | 77.1%     | Drop column / add availability flag |
+| Embarked | 2             | 0.2%      | Fill with mode (most frequent) |
