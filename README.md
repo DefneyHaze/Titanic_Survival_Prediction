@@ -1,6 +1,6 @@
 # Titanic_Survival_Prediction
 
-![Uploading image.png…]()
+<img width="612" height="318" alt="image" src="https://github.com/user-attachments/assets/1871eb82-231c-489d-90d2-1fca683e8174" />
 
 The sinking of the RMS Titanic in 1912 is one of the most infamous maritime disasters in history. Out of more than 2,200 passengers and crew, only around 710 survived. This dataset, made famous by Kaggle, provides passenger details such as age, sex, class, fare, and port of embarkation, along with whether they survived.
 
