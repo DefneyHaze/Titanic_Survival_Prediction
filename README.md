@@ -43,9 +43,9 @@ titanic-survival-prediction/
 ---
 
 ## 📸 Key Visuals
-![Survival by Sex] <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/4fe254d0-5418-4e1a-9e35-0710d66968a3" />
+1. Survival by Sex <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/4fe254d0-5418-4e1a-9e35-0710d66968a3" />
 
-![Feature Importance] <img width="912" height="547" alt="image" src="https://github.com/user-attachments/assets/759180e1-274f-43b4-87f4-6447b79ff9b3" />
+2. Feature Importance <img width="912" height="547" alt="image" src="https://github.com/user-attachments/assets/759180e1-274f-43b4-87f4-6447b79ff9b3" />
 
 
 ---
