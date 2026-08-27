@@ -1,5 +1,7 @@
 # Titanic_Survival_Prediction
 
+![Uploading image.png…]()
+
 The sinking of the RMS Titanic in 1912 is one of the most infamous maritime disasters in history. Out of more than 2,200 passengers and crew, only around 710 survived. This dataset, made famous by Kaggle, provides passenger details such as age, sex, class, fare, and port of embarkation, along with whether they survived.
 
 The goal of this project is to build a predictive model that estimates the likelihood of survival based on passenger attributes. The workflow follows a complete data science pipeline.
